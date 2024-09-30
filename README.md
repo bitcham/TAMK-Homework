@@ -1,1 +1,1 @@
-<h1>School Homework🏫</h1>
+<h1 align="center">School Homework🏫</h1>
